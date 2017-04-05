@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// These are variables that are all integers and exist even before any meditation practice is begun
+//  These are variables that are all integers and exist even before any meditation practice is begun
 int Concentration = 0; //Starts at zero and increases as one progresses throug meditations
 int Hindrances = 5; // 5 for the five hindrances
 int hindrancesToClarity = 8; // (sensual desire, ill will, will, sloth, torpor, restlessness, worry, doubt) (Shankman pg.10)
